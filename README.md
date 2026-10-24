@@ -37,3 +37,17 @@ The model was trained on a specific dataset. Its performance on real constructio
 
 ## Author
 Qasim
+
+
+
+## Week 7 — Capstone Project
+
+**Project:** Concrete Crack Detection Using CNN
+
+**Repository:** https://github.com/f24606037-cpu/concrete-crack-detection
+
+The project includes the training notebook, sample images, dataset details, model approach, evaluation information, and limitations.
+
+
+
+
